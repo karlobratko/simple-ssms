@@ -1,6 +1,6 @@
 # SIMPLE SSMS <!-- omit in toc -->
 
-VUA, RWA project for digitalization of apartment management system.
+VUA, PPPK project.
 
 ## Table of contents <!-- omit in toc -->
 - [1. Description](#1-description)
