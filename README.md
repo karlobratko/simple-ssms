@@ -11,10 +11,10 @@ VUA, PPPK project.
 
 SIMPLE SSMS is a simple SQL Server management studio.
 
-## 3. Authors
+## 2. Authors
 
 - **Karlo Bratko** (karlo.bratko@racunarstvo.hr)
 
-## 4. License
+## 3. License
 
 This project is licensed under the **MIT** license - see the [LICENSE.md](/LICENSE.md) file for details.
